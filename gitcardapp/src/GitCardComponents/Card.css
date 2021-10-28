@@ -1,0 +1,48 @@
+.github-profile {
+	margin: 1rem;
+ 
+}
+
+.img  {
+  margin-left: 0.5in;
+    margin-top: 0.1in;
+    margin-bottom: 0.1in;
+    margin-right: inherit;
+    display: inline-block;
+    border: rgb(110, 112, 112);
+    border-radius: 8px;
+    border-style: solid;
+    
+  }
+
+.info {
+    /* margin-left: 0.2in; */
+    display: inline-block;
+  }
+
+.name {
+    	font-size: 1.25rem;
+      font-weight: bold;
+      /* display: inline-block; */
+    }
+
+.company {
+    	font-size: 1rem;
+      font-weight: normal;
+      /* display: inline-block; */
+    }
+
+form {
+	border: thin solid #ddd;
+  background-color: #fbfbfb;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+	text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
